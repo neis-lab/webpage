@@ -6,6 +6,9 @@ title: Younghyun Kim
 first_name: Younghyun
 last_name: Kim
 
+# Year joined (for sorting) P_YYYY_N - P: 1=PhD, 2=MS
+year_joined: 0_2016
+
 # Is this the primary user of the site?
 superuser: true
 

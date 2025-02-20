@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Omkar Prabhune
+title: Tong Chen
 
 # Full Name (for SEO)
-first_name: Omkar
-last_name: Prabhune
+first_name: Tong
+last_name: Chen
 
 # Year joined (for sorting) P_YYYY_N - P: 1=PhD, 2=MS
-year_joined: 1_2021_2
+year_joined: 1_2024
 
 # Is this the primary user of the site?
 superuser: false

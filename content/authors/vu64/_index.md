@@ -1,12 +1,13 @@
 ---
 # Display name
-title: First Last
+title: Hien Vu
 
 # Full Name (for SEO)
-first_name: First
-last_name: Last
+first_name: Hien
+last_name: Vu
 
-year_joined: 2021_1
+# Year joined (for sorting) P_YYYY_N - P: 1=PhD, 2=MS
+year_joined: 1_2021_1
 
 # Is this the primary user of the site?
 superuser: false
