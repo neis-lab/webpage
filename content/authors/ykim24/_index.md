@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Purdue University
+  - name: 'Elmore Family School of Electrical and Computer Engineering'
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
