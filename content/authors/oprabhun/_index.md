@@ -6,7 +6,7 @@ title: First2 Last2
 first_name: First2
 last_name: Last2
 
-year_joined: 2021_2
+year_joined: 2021_0
 
 # Is this the primary user of the site?
 superuser: false
