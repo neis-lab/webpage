@@ -47,7 +47,7 @@ social:
 #     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: hhttps://scholar.google.com/citations?user=ac0WJaEAAAAJ
+    link: https://scholar.google.com/citations?user=ac0WJaEAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/younghyun-kim-purdue/

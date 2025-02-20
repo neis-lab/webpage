@@ -1,12 +1,12 @@
 ---
 # Display name
-title: First Last
+title: First2 Last2
 
 # Full Name (for SEO)
-first_name: First
-last_name: Last
+first_name: First2
+last_name: Last2
 
-year_joined: 2021_1
+year_joined: 2021_2
 
 # Is this the primary user of the site?
 superuser: false
