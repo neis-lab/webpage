@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Taewoong Yoon
+title: Hwangyu Cho
 
 # Full Name (for SEO)
-first_name: Taewoong
-last_name: Yoon
+first_name: Hwangyu
+last_name: Cho
 
 # Year joined (for sorting) P_YYYY_N - P: 1=PhD, 2=MS
-year_joined: 2_2024
+year_joined: 2_2025
 
 # Is this the primary user of the site?
 superuser: false

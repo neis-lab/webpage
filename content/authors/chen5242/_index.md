@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Hwangyu Cho
+title: Tong Chen
 
 # Full Name (for SEO)
-first_name: Hwangyu
-last_name: Cho
+first_name: Tong
+last_name: Chen
 
 # Year joined (for sorting) P_YYYY_N - P: 1=PhD, 2=MS
-year_joined: 2_2025_1
+year_joined: 1_2024
 
 # Is this the primary user of the site?
 superuser: false
