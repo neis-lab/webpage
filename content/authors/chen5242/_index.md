@@ -7,13 +7,13 @@ first_name: Tong
 last_name: Chen
 
 # Year joined (for sorting) P_YYYY_N - P: 1=PhD, 2=MS
-year_joined: 1_2024
+year_joined: 1_2024_1
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:

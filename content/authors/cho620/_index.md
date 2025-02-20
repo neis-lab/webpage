@@ -7,7 +7,7 @@ first_name: Hwangyu
 last_name: Cho
 
 # Year joined (for sorting) P_YYYY_N - P: 1=PhD, 2=MS
-year_joined: 2_2025
+year_joined: 2_2025_1
 
 # Is this the primary user of the site?
 superuser: false
