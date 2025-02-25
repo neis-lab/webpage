@@ -77,19 +77,20 @@ sections:
   #   design:
   #     columns: '1'
 
-sections:
+# sections:
   - block: people
     content:
-      title: NEIS Lab Members
+      title: Members
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator
+          # - Principal Investigator
           # - Researchers
-          - Graduate Research Assistants
+          # - Graduate Research Assistants
           # - Administration
           # - Visitors
-          - Alumni
+          # - Alumni
+          - Member
       sort_by: Params.year_joined
       sort_ascending: true
     design:

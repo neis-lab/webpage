@@ -73,6 +73,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigator
+  - Member
 ---
 
 Younghyun Kim is an Associate Professor in the Elmore Family School of Electrical and Computer Engineering at Purdue University. He received his B.S. degree in Computer Science and Engineering and his Ph.D. in Electrical Engineering and Computer Science from Seoul National University in 2007 and 2013, respectively. He was a Postdoctoral Research Assistant at Purdue University and a visiting scholar at the University of Southern California. From 2016 to 2023, he served as an Assistant and Associate Professor at the University of Wisconsin-Madison.
