@@ -16,8 +16,6 @@ sections:
         
         Welcome to the Networked and Embedded Intelligent Systems Lab at Purdue University! We are developing the next-generation computing and networking technologies to make embedded, mobile, and Internet-of-Things systems more efficient and trustworthy.
 
-
-
   - block: collection
     content:
       title: Research
@@ -33,7 +31,7 @@ sections:
         # publication_type: ''
         # tag: ''
       # offset: 0
-      order: desc
+      # order: desc
       page_type: post
     design:
       view: card
